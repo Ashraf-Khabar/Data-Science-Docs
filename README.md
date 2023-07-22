@@ -1,7 +1,6 @@
 # <center style="color: #2980B9"> Data-Science-Docs </center>
 
 * *This repository is a collection of data science documents, resumes, and books aimed at sharing knowledge about several fields of data science, such as machine learning, data mining, data warehousing, databases, deep learning, and business intelligence*.
-<br>
 
 ## Support : 
 
